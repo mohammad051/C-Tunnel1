@@ -97,7 +97,8 @@ flowchart LR
 یک دستور، روی **هر دو** سرور:
 
 ```bash
-sudo bash -c "$(curl -sL https://raw.githubusercontent.com/CIAUB/C-Tunnel/main/install.sh)"
+
+sudo bash -c "$(curl -sL https://raw.githubusercontent.com/mohammad051/C-Tunnel1/main/install.sh)"
 ```
 
 نصب‌کننده همیشه آخرین [Release](https://github.com/CIAUB/C-Tunnel/releases/latest) را نصب می‌کند.
