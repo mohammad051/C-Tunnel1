@@ -10,7 +10,7 @@
 # From a git checkout (sudo bash install.sh) it installs the local files instead.
 set -euo pipefail
 
-REPO="${CTUNNEL_REPO:-CIAUB/C-Tunnel}"
+REPO="${CTUNNEL_REPO:-mohammad051/C-Tunnel1}"
 GO_VERSION="${CTUNNEL_GO_VERSION:-}"
 [[ "$REPO" =~ ^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$ ]] || { echo "invalid repository" >&2; exit 1; }
 
