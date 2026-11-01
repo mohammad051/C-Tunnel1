@@ -93,7 +93,7 @@ Every tunnel gets its own `10.77.N.0/30` subnet, network interface and UDP port,
 One command, on **both** servers:
 
 ```bash
-sudo bash -c "$(curl -sL https://raw.githubusercontent.com/CIAUB/C-Tunnel/main/install.sh)"
+sudo bash -c "$(curl -sL https://raw.githubusercontent.com/mohammad051/C-Tunnel1/main/install.sh)"
 ```
 
 The installer always installs the latest [release](https://github.com/CIAUB/C-Tunnel/releases/latest).
